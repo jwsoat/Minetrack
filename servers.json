@@ -2,55 +2,46 @@
 	{
 		"name": "Hypixel",
 		"ip": "mc.hypixel.net",
-		"type": "PC",
 		"category": "minigames"
 	},
 	{
 		"name": "McPrison",
 		"ip": "mcprison.com",
-		"type": "PC",
 		"category": "minigames"
 	},
 	{
 		"name": "Skycade",
 		"ip": "play.skycade.net",
-		"type": "PC",
 		"category": "minigames"
 	},
 	{
 		"name": "Purple Prison",
 		"ip": "purpleprison.com",
-		"type": "PC",
 		"category": "minigames"
 	},
 	{
 		"name": "LTT",
 		"ip": "mc.lmg.gg",
-		"type": "PC",
 		"category": "minigames"
 	},
 	{
 		"name": "Invaded Lands",
 		"ip": "invadedlands.net",
-		"type": "PC",
 		"category": "minigames"
 	},
 	{
 		"name": "MunchyMC",
 		"ip": "munchymc.com",
-		"type": "PC",
 		"category": "minigames"
 	},
 	{
 		"name": "Purple Prison",
 		"ip": "purpleprison.com",
-		"type": "PC",
 		"category": "minigames"
 	},
 	{
 		"name": "The Hive",
 		"ip": "play.hivemc.com",
-		"type": "PC",
 		"category": "minigames"
 	}
 ]
